@@ -10,39 +10,39 @@
     background-color: #000000;
 }
 
-.sidebar__navegation {
+.sidebar__navigation {
     background-color: var(--bg-color);
     border-radius: 8px;
 }
 
-.sidebar__navegation .logo {
+.sidebar__navigation .logo {
     background-color: var(--bg-color);
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
 }
 
-.sidebar__navegation .logo img {
+.sidebar__navigation .logo img {
     width: 80px;
 }
 
-.sidebar__navegation ul {
+.sidebar__navigation ul {
     margin-top: 20px;
     padding: 0 20px 10px 20px;
 }
 
-.sidebar__navegation ul li {
+.sidebar__navigation ul li {
     padding: 10px 0;
 }
 
-.sidebar__navegation ul li a {
+.sidebar__navigation ul li a {
     color: #b3b3b3;
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
 }
 
-.sidebar__navegation ul li .fa {
+.sidebar__navigation ul li .fa {
     font-size: 20px;
     margin-right: 10px;
     font-weight: 300;
@@ -102,7 +102,7 @@
     display: flex;
 }
 
-.playlist {
+.library .playlist {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
