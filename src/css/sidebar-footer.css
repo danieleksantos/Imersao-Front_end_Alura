@@ -42,6 +42,11 @@
     font-size: 14px;
 }
 
+.navigation_links:hover {
+    transform: scale(1.04);
+    color: var(--text-base-light);
+}
+
 .sidebar__navigation ul li .fa {
     font-size: 20px;
     margin-right: 10px;

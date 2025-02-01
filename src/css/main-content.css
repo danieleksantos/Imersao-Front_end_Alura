@@ -16,12 +16,15 @@
     margin: 10px;
     border-radius: 8px;
     background-color: var(--bg-color);
+    /* border: 3px solid red; */
 }
 
 .header__navigation .navigation {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    /* border: 3px solid blue; */
+
 }
 
 .header__navigation .navigation .arrow-left {
@@ -67,12 +70,12 @@
 .header__search input {
     background: transparent;
     border: none;
-    padding: 0px 100px 12px;
+    padding: 0px 100px 0 12px;
+    color: var(--text-base-light);
     text-overflow: ellipsis;
+    outline: none;
     overflow: hidden;
     white-space: nowrap;
-    outline: none;
-    color: var(--text-base-light);
 }
 
 .header__login .subscribe {
@@ -82,6 +85,7 @@
     background-color: transparent;
     margin-right: 32px;
     border: none;
+    cursor: pointer;
 
 }
 
@@ -93,6 +97,8 @@
     font-weight: 700;
     border-radius: 40px;
     border: none;
+    cursor: pointer;
+
 }
 
 
@@ -141,6 +147,14 @@
     max-height: 43vh;
     margin: 24px;
     overflow-y: auto;
+}
+
+.offer__scroll-container::-webkit-scrollbar {
+    width: 1px;
+}
+  
+  .offer__scroll-container::-webkit-scrollbar-thumb {
+    background-color: transparent;
 }
 
 .offer__list-item {
