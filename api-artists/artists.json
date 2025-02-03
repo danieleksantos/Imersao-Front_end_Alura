@@ -7,7 +7,7 @@
       { "id": 5, "name": "Ludmilla", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d0000b273a757cd3fc637ff19645232b2" },
       { "id": 6, "name": "Aretha Franklin", "genre": "R&B", "urlImg": "https://i.scdn.co/image/ab67616d00001e02abfa071cc821d511a7997a88" },
       { "id": 7, "name": "Beyonce", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" },
-      { "id": 7, "name": "Britney", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" }
+      { "id": 8, "name": "Britney", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" }
     ]
   }
   
