@@ -18,3 +18,18 @@ O projeto consome uma API armazenada em um **servidor local** (`json-server`). I
 ✅ O código está estruturado para realizar requisições à API.  
 ❌ A busca na página do projeto **não retornará resultados online**, pois o servidor precisa estar rodando localmente.  
 
+
+### 🛠 Como rodar o servidor localmente
+
+Caso queira testar a funcionalidade completa e visualizar a busca funcionando em tempo real, siga os passos abaixo:
+
+1. Instale o `json-server` caso ainda não tenha:
+  npm install -g json-server
+
+2. Navegue até a pasta do projeto e inicie o servidor:
+  json-server --watch artists.json --port 3000
+
+3. Acesse a API em:
+  http://localhost:3000/artists
+
+4.Agora, a busca na página do projeto exibirá os resultados corretamente.
