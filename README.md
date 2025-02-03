@@ -32,4 +32,4 @@ Caso queira testar a funcionalidade completa e visualizar a busca funcionando em
 3. Acesse a API em:
   http://localhost:3000/artists
 
-4.Agora, a busca na página do projeto exibirá os resultados corretamente.
+4. Agora, a busca na página do projeto exibirá os resultados corretamente.
