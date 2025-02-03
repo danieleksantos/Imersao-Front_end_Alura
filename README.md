@@ -1,7 +1,7 @@
 
 # 📌Imersão Front-end Alura
 
-Este repositório apresenta o projeto desenvolvido durante a **Imersão Front-end** da [Alura](https://www.alura.com.br/), aplicando conceitos essenciais de **HTML, CSS e JavaScript** para construção de interfaces modernas, responsivas e acessíveis.
+Projeto desenvolvido durante a **Imersão Front-end** da [Alura](https://www.alura.com.br/), aplicando conceitos essenciais de **HTML, CSS e JavaScript** para construção de interfaces modernas, responsivas e acessíveis.
 
 ## 🛠 Tecnologias e conceitos aplicados
 
